@@ -53,7 +53,3 @@ The script will generate a PNG image file containing the QR code. You can scan t
 
 - [qrcode](https://github.com/lincolnloop/python-qrcode) - QR Code generator library
 - [Pillow](https://python-pillow.org/) - Python Imaging Library (handles image creation)
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
